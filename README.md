@@ -8,6 +8,7 @@
 - Head over to config.py file and replace current token with your token in line 1 between "".
 - [Click Here](https://www.youtube.com/watch?v=YEgFvgg7ZPI) to view how to get your discord token. 
 - Customize your own dm message at config.py in line 3 between "".
+- And boo, now u run launch.bat file and mass dm yo niqqas ez
 # LEGALITY
 - Does this considered as selfbotting? No shit, yes it does.
 - I don't take no responsibility for what your account might face after using this shit.
