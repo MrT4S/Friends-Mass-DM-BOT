@@ -10,7 +10,7 @@ async def on_connect():
   print(mdmbot.user.name)
   print(mdmbot.user.id)
   print("-----------------")
-  print("Starting massing..")
+  print("Started massing..")
   print("-----------------")
 
   for user in mdmbot.user.friends:
