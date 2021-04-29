@@ -6,6 +6,7 @@
 ## INSTALLING/SELFHOSTING
 - Make sure you have [python](https://www.python.org/downloads/) downloaded.
 - Configure the `config.json` file. [click here](https://www.youtube.com/watch?v=YEgFvgg7ZPI) to see how to get your token.
+- Run the `launch.bat` file at last!
 
 ### LEGALITY
 - Does this considered as selfbotting? No shit, yes it does.
