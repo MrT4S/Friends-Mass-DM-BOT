@@ -3,9 +3,6 @@ import json
 
 mdmbot = discord.Client()
 
-with open('config.json', 'r') as config:
-  data = json.load(config)
-
 with open("config.json", "r") as config:
     get = json.load(config)
     token = get["token"]
