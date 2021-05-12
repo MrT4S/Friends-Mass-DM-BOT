@@ -26,5 +26,6 @@ async def on_connect():
       print(f"Successfully message sent to: {user.name}")
     except:
        print(f"Failed to send message to: {user.name}")
+   print(f"{mdmbot.user.name} hass finished mdming!")
 
 mdmbot.run(token, bot=False)
